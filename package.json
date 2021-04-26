@@ -1,0 +1,21 @@
+{
+  "name": "kekremind",
+  "version": "1.4.0",
+  "description": "Kek bump reminder system.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kek",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-slow-down": "^1.4.0",
+    "luxon": "^1.26.0",
+    "morgan": "^1.10.0",
+    "socket.io": "^4.0.1",
+    "twdne.js": "^1.0.0"
+  }
+}
