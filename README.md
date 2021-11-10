@@ -1,7 +1,7 @@
 # 🤜 bumper 🤛
 Kek bump reminder thing for AU.  
 
-The code is fairly outdated, with one of the major the differences being the existence of a database on the production version.   
+The code is fairly outdated, with one of the major differences being the existence of a database in the production version.   
 
 Publishing of production code is still up for future considerations.
 > (C) kekboi, Art Union Org.  
